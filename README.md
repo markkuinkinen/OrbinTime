@@ -20,16 +20,15 @@ Despite the hurdles and mistakes along the way, it taught me a lot about game de
 ##  Gameplay
 The game is centered around real-time exploration in a pixel-art world. Originally planned as a compact project, it grew to feature:
 
+-  Top-down controls
 -   A single-scene game world (excluding intro/credits scenes)
     
--   Item collection and interaction
+-   Item collection and NPC interaction
+-   Intense real-time combat
     
--   Challenging navigation
+-   4 challenging and fun mini games
     
--   Top-down controls
     
-
-> In the future, I aim to expand on player combat and enemy AI mechanics.
 ## Areas
 ![games(32)](https://github.com/user-attachments/assets/c9010e93-3ff0-4b3b-823c-783e4dd72d65)
 
