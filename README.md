@@ -11,7 +11,7 @@
 
 ## About
 
-**Orbin Time** is a top-down **2D** game built in **Unity**, featuring pixel art environments and real-time player movement. What began as a small idea quickly evolved into a larger and more complex project, becoming an incredible learning experience in the process.
+**Orbin Time** is a top-down game built in **Unity**, featuring pixel art environments and real-time player movement. What began as a small idea quickly evolved into a larger and more complex project, becoming an incredible learning experience in the process.
 
 This game was made entirely solo—from design and implementation to debugging and deployment—as part of a school project.  
 Despite the hurdles and mistakes along the way, it taught me a lot about game development, especially planning, scripting, and scope management.
